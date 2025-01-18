@@ -1,0 +1,199 @@
+[
+  {
+    "ContainingType": "DoctorAppointment.AppointmentBooking.Api.Controllers.BookingController",
+    "Method": "GetAvailableSlots",
+    "RelativePath": "api/Booking/available-slots",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoctorAppointment.Shared.Models.SlotDto, DoctorAppointment.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoctorAppointment.AppointmentBooking.Api.Controllers.BookingController",
+    "Method": "BookAppointment",
+    "RelativePath": "api/Booking/book",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "DoctorAppointment.AppointmentBooking.Application.Commands.BookAppointmentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoctorAppointment.Shared.Models.AppointmentDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoctorAppointment.DoctorManagement.Infrastructure.Adapters.Input.AppointmentManagementController",
+    "Method": "CancelAppointment",
+    "RelativePath": "api/doctor/appointments/{id}/cancel",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoctorAppointment.Shared.Models.AppointmentDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoctorAppointment.DoctorManagement.Infrastructure.Adapters.Input.AppointmentManagementController",
+    "Method": "MarkAsCompleted",
+    "RelativePath": "api/doctor/appointments/{id}/complete",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoctorAppointment.Shared.Models.AppointmentDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoctorAppointment.DoctorManagement.Infrastructure.Adapters.Input.AppointmentManagementController",
+    "Method": "GetUpcomingAppointments",
+    "RelativePath": "api/doctor/appointments/upcoming",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoctorAppointment.Shared.Models.AppointmentDto, DoctorAppointment.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoctorAppointment.AppointmentConfirmation.NotificationController",
+    "Method": "ResendConfirmation",
+    "RelativePath": "api/Notification/resend",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DoctorAppointment.AppointmentConfirmation.ResendConfirmationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DoctorAppointment.DoctorAvailability.Controllers.SlotController",
+    "Method": "GetAllSlots",
+    "RelativePath": "api/Slot",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DoctorAppointment.Shared.Models.SlotDto, DoctorAppointment.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DoctorAppointment.DoctorAvailability.Controllers.SlotController",
+    "Method": "AddSlot",
+    "RelativePath": "api/Slot",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "slotDto",
+        "Type": "DoctorAppointment.Shared.Models.SlotDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DoctorAppointment.Shared.Models.SlotDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ModuleEndpointsExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapModuleEndpoints\u003Eb__0_0",
+    "RelativePath": "health",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "HealthCheck"
+  }
+]

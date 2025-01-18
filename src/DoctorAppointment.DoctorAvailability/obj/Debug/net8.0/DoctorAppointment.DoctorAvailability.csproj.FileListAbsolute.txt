@@ -1,0 +1,15 @@
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\DoctorAppointment.DoctorAvailability.csproj.AssemblyReference.cache
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\DoctorAppointment.DoctorAvailability.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\DoctorAppointment.DoctorAvailability.AssemblyInfoInputs.cache
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\DoctorAppointment.DoctorAvailability.AssemblyInfo.cs
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\DoctorAppointment.DoctorAvailability.csproj.CoreCompileInputs.cache
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\bin\Debug\net8.0\DoctorAppointment.DoctorAvailability.deps.json
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\bin\Debug\net8.0\DoctorAppointment.DoctorAvailability.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\bin\Debug\net8.0\DoctorAppointment.DoctorAvailability.pdb
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\bin\Debug\net8.0\DoctorAppointment.Shared.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\bin\Debug\net8.0\DoctorAppointment.Shared.pdb
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\DoctorAp.4CFAD015.Up2Date
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\DoctorAppointment.DoctorAvailability.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\refint\DoctorAppointment.DoctorAvailability.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\DoctorAppointment.DoctorAvailability.pdb
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorAvailability\obj\Debug\net8.0\ref\DoctorAppointment.DoctorAvailability.dll

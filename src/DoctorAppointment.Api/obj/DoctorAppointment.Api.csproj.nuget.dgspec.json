@@ -1,0 +1,539 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Api\\DoctorAppointment.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Api\\DoctorAppointment.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Api\\DoctorAppointment.Api.csproj",
+        "projectName": "DoctorAppointment.Api",
+        "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Api\\DoctorAppointment.Api.csproj",
+        "packagesPath": "C:\\Users\\Ashraf\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SaudiVTS/_packaging/SaudiVTS/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentBooking\\DoctorAppointment.AppointmentBooking.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentBooking\\DoctorAppointment.AppointmentBooking.csproj"
+              },
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentConfirmation\\DoctorAppointment.AppointmentConfirmation.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentConfirmation\\DoctorAppointment.AppointmentConfirmation.csproj"
+              },
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj"
+              },
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj"
+              },
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentBooking\\DoctorAppointment.AppointmentBooking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentBooking\\DoctorAppointment.AppointmentBooking.csproj",
+        "projectName": "DoctorAppointment.AppointmentBooking",
+        "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentBooking\\DoctorAppointment.AppointmentBooking.csproj",
+        "packagesPath": "C:\\Users\\Ashraf\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentBooking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SaudiVTS/_packaging/SaudiVTS/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj"
+              },
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj"
+              },
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentConfirmation\\DoctorAppointment.AppointmentConfirmation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentConfirmation\\DoctorAppointment.AppointmentConfirmation.csproj",
+        "projectName": "DoctorAppointment.AppointmentConfirmation",
+        "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentConfirmation\\DoctorAppointment.AppointmentConfirmation.csproj",
+        "packagesPath": "C:\\Users\\Ashraf\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentConfirmation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SaudiVTS/_packaging/SaudiVTS/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj",
+        "projectName": "DoctorAppointment.DoctorAvailability",
+        "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj",
+        "packagesPath": "C:\\Users\\Ashraf\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SaudiVTS/_packaging/SaudiVTS/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj",
+        "projectName": "DoctorAppointment.DoctorManagement",
+        "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj",
+        "packagesPath": "C:\\Users\\Ashraf\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SaudiVTS/_packaging/SaudiVTS/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj",
+        "projectName": "DoctorAppointment.Infrastructure",
+        "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Ashraf\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SaudiVTS/_packaging/SaudiVTS/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentBooking\\DoctorAppointment.AppointmentBooking.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.AppointmentBooking\\DoctorAppointment.AppointmentBooking.csproj"
+              },
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorAvailability\\DoctorAppointment.DoctorAvailability.csproj"
+              },
+              "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj": {
+                "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.DoctorManagement\\DoctorAppointment.DoctorManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj",
+        "projectName": "DoctorAppointment.Shared",
+        "projectPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\DoctorAppointment.Shared.csproj",
+        "packagesPath": "C:\\Users\\Ashraf\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\Hassan Ibrahim\\Clean Arch\\Assessment_1\\DoctorAppointmentSystem\\src\\DoctorAppointment.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SaudiVTS/_packaging/SaudiVTS/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

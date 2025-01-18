@@ -1,0 +1,15 @@
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\DoctorAppointment.DoctorManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\DoctorAppointment.DoctorManagement.AssemblyInfoInputs.cache
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\DoctorAppointment.DoctorManagement.AssemblyInfo.cs
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\DoctorAppointment.DoctorManagement.csproj.CoreCompileInputs.cache
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\DoctorAppointment.DoctorManagement.csproj.AssemblyReference.cache
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\bin\Debug\net8.0\DoctorAppointment.DoctorManagement.deps.json
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\bin\Debug\net8.0\DoctorAppointment.DoctorManagement.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\bin\Debug\net8.0\DoctorAppointment.DoctorManagement.pdb
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\bin\Debug\net8.0\DoctorAppointment.Shared.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\bin\Debug\net8.0\DoctorAppointment.Shared.pdb
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\DoctorAp.B5E18BEC.Up2Date
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\DoctorAppointment.DoctorManagement.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\refint\DoctorAppointment.DoctorManagement.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\DoctorAppointment.DoctorManagement.pdb
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.DoctorManagement\obj\Debug\net8.0\ref\DoctorAppointment.DoctorManagement.dll

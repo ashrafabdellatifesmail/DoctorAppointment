@@ -1,0 +1,11 @@
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\bin\Debug\net8.0\DoctorAppointment.Shared.deps.json
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\bin\Debug\net8.0\DoctorAppointment.Shared.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\bin\Debug\net8.0\DoctorAppointment.Shared.pdb
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\obj\Debug\net8.0\DoctorAppointment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\obj\Debug\net8.0\DoctorAppointment.Shared.AssemblyInfoInputs.cache
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\obj\Debug\net8.0\DoctorAppointment.Shared.AssemblyInfo.cs
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\obj\Debug\net8.0\DoctorAppointment.Shared.csproj.CoreCompileInputs.cache
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\obj\Debug\net8.0\DoctorAppointment.Shared.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\obj\Debug\net8.0\refint\DoctorAppointment.Shared.dll
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\obj\Debug\net8.0\DoctorAppointment.Shared.pdb
+D:\Learn\Hassan Ibrahim\Clean Arch\Assessment_1\DoctorAppointmentSystem\src\DoctorAppointment.Shared\obj\Debug\net8.0\ref\DoctorAppointment.Shared.dll
