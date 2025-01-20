@@ -32,6 +32,10 @@ namespace DoctorAppointment.DoctorManagement.Application
         public async Task<AppointmentDto> MarkAppointmentAsCompleted(Guid appointmentId)
         {
             var appointment = await _appointmentRepository.GetById(appointmentId);
+
+            if(appointment == null)
+                throw new ArgumentNullException(nameof(appointment));
+
             appointment.MarkAsCompleted();
             var updated = await _appointmentRepository.Update(appointment);
 

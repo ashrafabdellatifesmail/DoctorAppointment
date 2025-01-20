@@ -113,7 +113,7 @@ public static class ModuleServiceExtensions
 {
     public static IServiceCollection AddDoctorAvailabilityModule(this IServiceCollection services)
     {
-        services.AddScoped<ISlotRepository, InMemorySlotRepository>();
+        services.AddSingleton<ISlotRepository, InMemorySlotRepository>();
         services.AddScoped<ISlotService, SlotService>();
         return services;
     }
